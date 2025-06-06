@@ -110,13 +110,12 @@ Material,Massa Específica Média (g/cm³),Módulo de Elasticidade Médio (GPa),
 "Madeira, Pinheiro de Douglas (12% umidade) - Perpendicular ao grão",0.48,0.61,"Densidade: 0.46-0.50; Módulo: 0.54-0.68"
 "Madeira, Carvalho vermelho (12% umidade) - Paralelo ao grão",0.64,12.575,"Densidade: 0.61-0.67; Módulo: 11.0-14.15"
 "Madeira, Carvalho vermelho (12% umidade) - Perpendicular ao grão",0.64,0.63,"Densidade: 0.61-0.67; Módulo: 0.55-0.71"
-
-, Aço AISI 1010 , 7.87 , 205 , E típico para aço ,
-, Aço AISI 1010 , 7.87 , 205 , E típico para aço ,
-, Aço AISI 1030 , 7.86 , 200 , Média de valores reportados; E=29-30 Msi ,
-, Aço AISI 1050 , 7.85 , 200 , Média de valores reportados; E=190-210 GPa ou 29 Msi ,
-, Aço AISI 1080 , 7.865 , 200 , D=7.7-8.03 g/cm3; E=190-210 GPa ,
-, Aço AISI 1095 , 7.865 , 200 , D=7.7-8.03 g/cm3; E=190-210 GPa ou 30 Msi ,
+Aço AISI 1010 , 7.87 , 205 , E típico para aço ,
+Aço AISI 1010 , 7.87 , 205 , E típico para aço ,
+Aço AISI 1030 , 7.86 , 200 , Média de valores reportados; E=29-30 Msi ,
+Aço AISI 1050 , 7.85 , 200 , Média de valores reportados; E=190-210 GPa ou 29 Msi ,
+Aço AISI 1080 , 7.865 , 200 , D=7.7-8.03 g/cm3; E=190-210 GPa ,
+Aço AISI 1095 , 7.865 , 200 , D=7.7-8.03 g/cm3; E=190-210 GPa ou 30 Msi ,
 , Aço AISI 4130 , 7.85 , 205 , E típico para aço ,
 , Aço AISI 4150 , 7.85 , 200 , E=190-210 GPa ,
 , Aço AISI 4320 , 7.85 , 200 , E=190-210 GPa ,
@@ -124,8 +123,8 @@ Material,Massa Específica Média (g/cm³),Módulo de Elasticidade Médio (GPa),
 , Aço AISI 8620 , 7.85 , 205 , E típico para aço ,
 , Aço AISI 8620 , 7.85 , 205 , E típico para aço ,
 , Aço ASTM A514 , 7.85 , 190 , Média de 7.8-7.9 g/cm3 ,
-, Aço ASTM A572 Grau 50 , 7.865 , 200 , D=7.7-8.03 g/cm3; E=190-210 GPa ,
-, Aço ASTM A656 Grau 80 , , , Densidade e Módulo E não disponíveis nas fontes ,
+, Aço ASTM A572 Grau 50 , 7.865 , 200 , D=7.7-8.03 g/cm3; E=190-210 GPa 
+
 , Aço Inoxidável Allegheny Ludlum Tipo 301 , 8.03 , 185 , "E=174 GPa (laminado), 196 GPa (aliviado de tensões)" ,
 , Aço Inoxidável AISI Tipo 302 , 7.86 , 193 , ,
 , Aço Inoxidável AISI Tipo 303 , 8 , 193 , ,
