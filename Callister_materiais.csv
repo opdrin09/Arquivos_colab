@@ -74,7 +74,7 @@ Material,Massa Específica Média (g/cm³),Módulo de Elasticidade Médio (GPa),
 "Nitreto de silício, Unido por reação",2.7,304,
 "Nitreto de silício, Sinterizado",3.3,304,
 "Zircônia, 3 mol% Y2O3, sinterizada",6.0,205,
-"Acrilonitrila-butadieno-estireno (ABS)",1.05,2.25,"Valores de referência"
+"Acrilonitrila-butadieno-estireno (ABS)",1.20,2.00,"Valores de referência"
 "Butadieno-acrilonitrila (nitrila)",0.98,0.0034,
 "Estireno-butadieno (SBR)",0.94,0.006,"Módulo: 0.002-0.010"
 "Silicone",1.35,N/D,"Densidade: 1.1-1.6"
