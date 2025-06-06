@@ -1,116 +1,112 @@
 Material,Massa Específica Média (g/cm³),Módulo de Elasticidade Médio (GPa),Observação (Faixa Original)
-METAIS E LIGAS METÁLICAS,,,
-Liga de aço A36,7.85,207,
-Liga de aço 1020,7.85,207,
-Liga de aço 1040,7.85,207,
-Liga de aço 4140,7.85,207,
-Liga de aço 4340,7.85,207,
-Liga inoxidável 304,8,193,
-Liga inoxidável 316,8,193,
-Liga inoxidável 405,7.8,200,
-Liga inoxidável 440A,7.8,200,
-Liga inoxidável 17-7PH,7.65,204,
-"Ferros cinzentos, Classe G1800",7.3,81.5,Módulo: 66-97
-"Ferros cinzentos, Classe G3000",7.3,101.5,Módulo: 90-113
-"Ferros cinzentos, Classe G4000",7.3,124,Módulo: 110-138
-"Ferros nodulares, Classe 60-40-18",7.1,169,
-"Ferros nodulares, Classe 80-55-06",7.1,168,
-"Ferros nodulares, Classe 120-90-02",7.1,164,
-Liga de Alumínio 1100,2.71,69,
-Liga de Alumínio 2024,2.77,72.4,
-Liga de Alumínio 6061,2.7,69,
-Liga de Alumínio 7075,2.8,71,
-Liga de Alumínio 356.0,2.69,72.4,
-Cobre C11000 (cobre eletrolítico tenaz),8.89,115,
-Cobre C17200 (berílio-cobre),8.25,128,
-Cobre C26000 (latão para cartuchos),8.53,110,
-Cobre C36000 (latão de fácil usinagem),8.5,97,
+"Liga de aço A36",7.85,207,
+"Liga de aço 1020",7.85,207,
+"Liga de aço 1040",7.85,207,
+"Liga de aço 4140",7.85,207,
+"Liga de aço 4340",7.85,207,
+"Liga inoxidável 304",8.00,193,
+"Liga inoxidável 316",8.00,193,
+"Liga inoxidável 405",7.80,200,
+"Liga inoxidável 440A",7.80,200,
+"Liga inoxidável 17-7PH",7.65,204,
+"Ferros cinzentos, Classe G1800",7.30,81.5,"Módulo: 66-97"
+"Ferros cinzentos, Classe G3000",7.30,101.5,"Módulo: 90-113"
+"Ferros cinzentos, Classe G4000",7.30,124,"Módulo: 110-138"
+"Ferros nodulares, Classe 60-40-18",7.10,169,
+"Ferros nodulares, Classe 80-55-06",7.10,168,
+"Ferros nodulares, Classe 120-90-02",7.10,164,
+"Liga de Alumínio 1100",2.71,69,
+"Liga de Alumínio 2024",2.77,72.4,
+"Liga de Alumínio 6061",2.70,69,
+"Liga de Alumínio 7075",2.80,71,
+"Liga de Alumínio 356.0",2.69,72.4,
+"Cobre C11000 (cobre eletrolítico tenaz)",8.89,115,
+"Cobre C17200 (berílio-cobre)",8.25,128,
+"Cobre C26000 (latão para cartuchos)",8.53,110,
+"Cobre C36000 (latão de fácil usinagem)",8.50,97,
 "Cobre C71500 (cobre-níquel, 30%)",8.94,150,
-Cobre C93200 (bronze para mancais),8.93,100,
-Liga de Magnésio AZ31B,1.77,45,
-Liga de Magnésio AZ91D,1.81,45,
-Titânio Comercialmente puro (ASTM classe 1),4.51,103,
-Liga Ti-5Al-2.5Sn,4.48,110,
-Liga Ti-6Al-4V,4.43,114,
-Ouro (comercialmente puro),19.32,77,
-Platina (comercialmente pura),21.45,171,
-Prata (comercialmente pura),10.49,74,
-Molibdênio (comercialmente puro),10.22,320,
-Tântalo (comercialmente puro),16.6,185,
-Tungstênio (comercialmente puro),19.3,400,
-Níquel 200,8.89,204,
-Inconel 625,8.44,207,
-Monel 400,8.8,180,
-Liga Haynes 25,9.13,236,
-Invar,8.05,141,
-Superinvar,8.1,144,
-Kovar,8.36,207,
-Chumbo químico,11.34,13.5,
-Chumbo antimonial (6%),10.88,N/D,
-Estanho (comercialmente puro),7.17,44.3,
-Solda chumbo-estanho (60 Sn-40 Pb),8.52,30,
-Zinco (comercialmente puro),7.14,104.5,
+"Cobre C93200 (bronze para mancais)",8.93,100,
+"Liga de Magnésio AZ31B",1.77,45,
+"Liga de Magnésio AZ91D",1.81,45,
+"Titânio Comercialmente puro (ASTM classe 1)",4.51,103,
+"Liga Ti-5Al-2.5Sn",4.48,110,
+"Liga Ti-6Al-4V",4.43,114,
+"Ouro (comercialmente puro)",19.32,77,
+"Platina (comercialmente pura)",21.45,171,
+"Prata (comercialmente pura)",10.49,74,
+"Molibdênio (comercialmente puro)",10.22,320,
+"Tântalo (comercialmente puro)",16.6,185,
+"Tungstênio (comercialmente puro)",19.3,400,
+"Níquel 200",8.89,204,
+"Inconel 625",8.44,207,
+"Monel 400",8.80,180,
+"Liga Haynes 25",9.13,236,
+"Invar",8.05,141,
+"Superinvar",8.10,144,
+"Kovar",8.36,207,
+"Chumbo químico",11.34,13.5,
+"Chumbo antimonial (6%)",10.88,N/D,
+"Estanho (comercialmente puro)",7.17,44.3,
+"Solda chumbo-estanho (60 Sn-40 Pb)",8.52,30,
+"Zinco (comercialmente puro)",7.14,104.5,
 "Zircônio, classe 702 para reatores",6.51,99.3,
-"GRAFITA, CERÂMICAS E SEMICONDUTORES",,,
 "Óxido de alumínio, 99.9% puro",3.98,380,
 "Óxido de alumínio, 96% puro",3.72,303,
-"Óxido de alumínio, 90% puro",3.6,275,
-Concreto,2.4,31,Módulo: 25.4-36.6
-"Diamante, Natural",3.51,950,Módulo: 700-1200
-"Diamante, Sintético",3.36,862.5,Densidade: 3.20-3.52; Módulo: 800-925
-Arseneto de gálio (direção 100),5.32,85,
-Arseneto de gálio (direção 110),5.32,122,
-Arseneto de gálio (direção 111),5.32,142,
+"Óxido de alumínio, 90% puro",3.60,275,
+"Concreto",2.4,31,"Módulo: 25.4-36.6"
+"Diamante, Natural",3.51,950,"Módulo: 700-1200"
+"Diamante, Sintético",3.36,862.5,"Densidade: 3.20-3.52; Módulo: 800-925"
+"Arseneto de gálio (direção 100)",5.32,85,
+"Arseneto de gálio (direção 110)",5.32,122,
+"Arseneto de gálio (direção 111)",5.32,142,
 "Vidro, borossilicato (Pyrex)",2.23,70,
 "Vidro, sodo-cálcico",2.5,69,
-Vitrocerâmico (Pyroceram),2.6,120,
+"Vitrocerâmico (Pyroceram)",2.60,120,
 "Grafita, Extrudada",1.71,11,
 "Grafita, Conformada isostaticamente",1.78,11.7,
 "Sílica, fundida",2.2,73,
-Silício (direção 100),2.33,129,
-Silício (direção 110),2.33,168,
-Silício (direção 111),2.33,187,
-"Carbeto de silício, Prensado a quente",3.3,345,Módulo: 207-483
-"Carbeto de silício, Sinterizado",3.2,345,Módulo: 207-483
+"Silício (direção 100)",2.33,129,
+"Silício (direção 110)",2.33,168,
+"Silício (direção 111)",2.33,187,
+"Carbeto de silício, Prensado a quente",3.3,345,"Módulo: 207-483"
+"Carbeto de silício, Sinterizado",3.2,345,"Módulo: 207-483"
 "Nitreto de silício, Prensado a quente",3.3,304,
 "Nitreto de silício, Unido por reação",2.7,304,
 "Nitreto de silício, Sinterizado",3.3,304,
-"Zircônia, 3 mol% Y2O3, sinterizada",6,205,
-POLÍMEROS,,,
-Butadieno-acrilonitrila (nitrila),0.98,0.0034,
-Estireno-butadieno (SBR),0.94,0.006,Módulo: 0.002-0.010
-Silicone,1.35,N/D,Densidade: 1.1-1.6
-Epóxi,1.255,2.41,Densidade: 1.11-1.40
-"Náilon 6,6",1.14,2.69,Módulo: 1.59-3.79
-Fenólico,1.28,3.795,Módulo: 2.76-4.83
-Poli(tereftalato de butileno) (PBT),1.34,2.465,Módulo: 1.93-3.00
-Policarbonato (PC),1.2,2.38,
-Poliéster (termorrígido),1.25,3.235,Densidade: 1.04-1.46; Módulo: 2.06-4.41
-Poli(éter-éter-cetona) (PEEK),1.31,1.1,
-"Polietileno, Baixa densidade (LDPE)",0.925,0.227,Módulo: 0.172-0.282
+"Zircônia, 3 mol% Y2O3, sinterizada",6.0,205,
+"Acrilonitrila-butadieno-estireno (ABS)",1.05,2.25,"Valores de referência"
+"Butadieno-acrilonitrila (nitrila)",0.98,0.0034,
+"Estireno-butadieno (SBR)",0.94,0.006,"Módulo: 0.002-0.010"
+"Silicone",1.35,N/D,"Densidade: 1.1-1.6"
+"Epóxi",1.255,2.41,"Densidade: 1.11-1.40"
+"Náilon 6,6",1.14,2.69,"Módulo: 1.59-3.79"
+"Fenólico",1.28,3.795,"Módulo: 2.76-4.83"
+"Poli(tereftalato de butileno) (PBT)",1.34,2.465,"Módulo: 1.93-3.00"
+"Policarbonato (PC)",1.20,2.38,
+"Poliéster (termorrígido)",1.25,3.235,"Densidade: 1.04-1.46; Módulo: 2.06-4.41"
+"Poli(éter-éter-cetona) (PEEK)",1.31,1.10,
+"Polietileno, Baixa densidade (LDPE)",0.925,0.227,"Módulo: 0.172-0.282"
 "Polietileno, Alta densidade (HDPE)",0.959,1.08,
 "Polietileno, Ultra-alto peso molecular (UHMWPE)",0.94,0.69,
-Poli(tereftalato de etileno) (PET),1.35,3.45,Módulo: 2.76-4.14
-Poli(metacrilato de metila) (PMMA),1.19,2.74,Módulo: 2.24-3.24
-Polipropileno (PP),0.905,1.345,Módulo: 1.14-1.55
-Poliestireno (PS),1.05,2.78,Módulo: 2.28-3.28
-Politetrafluoretileno (PTFE),2.17,0.475,Módulo: 0.40-0.55
-Poli(cloreto de vinila) (PVC),1.44,3.275,Densidade: 1.30-1.58; Módulo: 2.41-4.14
-MATERIAIS FIBROSOS,,,
-Aramida (Kevlar 49),1.44,131,
+"Poli(tereftalato de etileno) (PET)",1.35,3.45,"Módulo: 2.76-4.14"
+"Poli(metacrilato de metila) (PMMA)",1.19,2.74,"Módulo: 2.24-3.24"
+"Polipropileno (PP)",0.905,1.345,"Módulo: 1.14-1.55"
+"Poliestireno (PS)",1.05,2.78,"Módulo: 2.28-3.28"
+"Politetrafluoretileno (PTFE)",2.17,0.475,"Módulo: 0.40-0.55"
+"Poli(cloreto de vinila) (PVC)",1.44,3.275,"Densidade: 1.30-1.58; Módulo: 2.41-4.14"
+"Aramida (Kevlar 49)",1.44,131,
 "Carbono, Módulo-padrão (precursor PAN)",1.78,230,
 "Carbono, Módulo intermediário (precursor PAN)",1.78,285,
 "Carbono, Módulo alto (precursor PAN)",1.81,400,
-"Carbono, Módulo ultra-alto (precursor piche)",2.155,730,Densidade: 2.12-2.19; Módulo: 520-940
-Vidro-E,2.58,72.5,
-MATERIAIS COMPÓSITOS,,,
-Fibras de aramida-matriz epóxi (Vf=0.60) - Longitudinal,1.4,76,
-Fibras de aramida-matriz epóxi (Vf=0.60) - Transversal,1.4,5.5,
-Fibras de carbono de módulo alto-matriz epóxi (Vf=0.60) - Longitudinal,1.7,220,
-Fibras de carbono de módulo alto-matriz epóxi (Vf=0.60) - Transversal,1.7,6.9,
-Fibras de vidro-E-matriz epóxi (Vf=0.60) - Longitudinal,2.1,45,
-Fibras de vidro-E-matriz epóxi (Vf=0.60) - Transversal,2.1,12,
-"Madeira, Pinheiro de Douglas (12% umidade) - Paralelo ao grão",0.48,12.2,Densidade: 0.46-0.50; Módulo: 10.8-13.6
-"Madeira, Pinheiro de Douglas (12% umidade) - Perpendicular ao grão",0.48,0.61,Densidade: 0.46-0.50; Módulo: 0.54-0.68
-"Madeira, Carvalho vermelho (12% umidade) - Paralelo ao grão",0.64,12.575,Densidade: 0.61-0.67; Módulo: 11.0-14.15
-"Madeira, Carvalho vermelho (12% umidade) - Perpendicular ao grão",0.64,0.63,Densidade: 0.61-0.67; Módulo: 0.55-0.71
+"Carbono, Módulo ultra-alto (precursor piche)",2.155,730,"Densidade: 2.12-2.19; Módulo: 520-940"
+"Vidro-E",2.58,72.5,
+"Fibras de aramida-matriz epóxi (Vf=0.60) - Longitudinal",1.4,76,
+"Fibras de aramida-matriz epóxi (Vf=0.60) - Transversal",1.4,5.5,
+"Fibras de carbono de módulo alto-matriz epóxi (Vf=0.60) - Longitudinal",1.7,220,
+"Fibras de carbono de módulo alto-matriz epóxi (Vf=0.60) - Transversal",1.7,6.9,
+"Fibras de vidro-E-matriz epóxi (Vf=0.60) - Longitudinal",2.1,45,
+"Fibras de vidro-E-matriz epóxi (Vf=0.60) - Transversal",2.1,12,
+"Madeira, Pinheiro de Douglas (12% umidade) - Paralelo ao grão",0.48,12.2,"Densidade: 0.46-0.50; Módulo: 10.8-13.6"
+"Madeira, Pinheiro de Douglas (12% umidade) - Perpendicular ao grão",0.48,0.61,"Densidade: 0.46-0.50; Módulo: 0.54-0.68"
+"Madeira, Carvalho vermelho (12% umidade) - Paralelo ao grão",0.64,12.575,"Densidade: 0.61-0.67; Módulo: 11.0-14.15"
+"Madeira, Carvalho vermelho (12% umidade) - Perpendicular ao grão",0.64,0.63,"Densidade: 0.61-0.67; Módulo: 0.55-0.71"
