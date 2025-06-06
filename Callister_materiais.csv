@@ -110,311 +110,418 @@ Material,Massa Específica Média (g/cm³),Módulo de Elasticidade Médio (GPa),
 "Madeira, Pinheiro de Douglas (12% umidade) - Perpendicular ao grão",0.48,0.61,"Densidade: 0.46-0.50; Módulo: 0.54-0.68"
 "Madeira, Carvalho vermelho (12% umidade) - Paralelo ao grão",0.64,12.575,"Densidade: 0.61-0.67; Módulo: 11.0-14.15"
 "Madeira, Carvalho vermelho (12% umidade) - Perpendicular ao grão",0.64,0.63,"Densidade: 0.61-0.67; Módulo: 0.55-0.71"
-Aço AISI 1010 , 7.87 , 205 , E típico para aço ,
-Aço AISI 1010 , 7.87 , 205 , E típico para aço ,
-Aço AISI 1030 , 7.86 , 200 , Média de valores reportados; E=29-30 Msi ,
-Aço AISI 1050 , 7.85 , 200 , Média de valores reportados; E=190-210 GPa ou 29 Msi ,
-Aço AISI 1080 , 7.865 , 200 , D=7.7-8.03 g/cm3; E=190-210 GPa ,
-Aço AISI 1095 , 7.865 , 200 , D=7.7-8.03 g/cm3; E=190-210 GPa ou 30 Msi ,
-, Aço AISI 4130 , 7.85 , 205 , E típico para aço ,
-, Aço AISI 4150 , 7.85 , 200 , E=190-210 GPa ,
-, Aço AISI 4320 , 7.85 , 200 , E=190-210 GPa ,
-, Aço AISI 52100 , 7.81 , 200 , E=190-210 GPa ,
-, Aço AISI 8620 , 7.85 , 205 , E típico para aço ,
-, Aço AISI 8620 , 7.85 , 205 , E típico para aço ,
-, Aço ASTM A514 , 7.85 , 190 , Média de 7.8-7.9 g/cm3 ,
-, Aço ASTM A572 Grau 50 , 7.865 , 200 , D=7.7-8.03 g/cm3; E=190-210 GPa 
-
-, Aço Inoxidável Allegheny Ludlum Tipo 301 , 8.03 , 185 , "E=174 GPa (laminado), 196 GPa (aliviado de tensões)" ,
-, Aço Inoxidável AISI Tipo 302 , 7.86 , 193 , ,
-, Aço Inoxidável AISI Tipo 303 , 8 , 193 , ,
-, Aço Inoxidável AISI Tipo 304L , 8 , 196.5 , E=193-200 GPa ,
-, Aço Inoxidável AISI Tipo 316L , 8 , 193 , ,
-, Aço Inoxidável Liga 317L , 7.89 , 200 , E=29.0 x 10^6 psi ,
-, Aço Inoxidável AISI Tipo 321 , 8 , 196.5 , E=193-200 GPa ,
-, Aço Inoxidável Tipo 409 , 7.75 , 208.22 , E=30.2 x 10^3 ksi ,
-, Aço Inoxidável AISI Tipo 410S , 7.8 , , Módulo E não disponível ,
-, Aço Inoxidável AISI Tipo 410 , 7.8 , , Módulo E não disponível ,
-, Aço Inoxidável Liga 416 , 7.75 , 200 , ,
-, Aço Inoxidável AISI Tipo 420 , 7.8 , , Módulo Cisalhamento=80.7 GPa; Módulo E não disponível ,
-, Aço Inoxidável 434 , 7.75 , 200 , E=29000 ksi ,
-, Aço Inoxidável AISI Tipo 430 , 7.8 , 200 , ,
-, Aço Inoxidável Martensítico Grau 440C , 7.65 , 200 , ,
-, Aço Inoxidável Duplex 2205 (UNS S31803/S32205) , 7.805 , 190.29 , D=0.278 lb/in3; E=27.6 Mpsi a 70°F ,
-, Aço Inoxidável Super Duplex SAF 2507 (UNS S32750) , 7.8 , 200 , E=29x10^3 ksi ,
-, Aço Inoxidável PH 15-5PH , 7.8 , 200 , E típico para aço inox ,
-, Aço Inoxidável PH Vasco 17-4PH , 7.78 , 202 , E=29.25 Msi (média de 197-207 GPa) ,
-, Aço Ferramenta H13 , 7.8 , 215 , E=31200 ksi ,
-, Aço Ferramenta A2 , 7.805 , 200 , D=média de 7.75-7.86 g/cm3; E=média de 190-207 GPa ,
-, Aço Ferramenta D2 , 7.675 , 200 , D=média de 7.6-7.7 g/cm3; E=média de 190-210 GPa ,
-, Aço Ferramenta M2 , 8.16 , 193.05 , D=0.295 lb/in3; E=28 Mpsi ,
-, Aço Ferramenta O1 , 7.81 , 193 , ,
-, Aço Ferramenta S1 , 7.89 , 207 , E=30000 ksi ,
-, Aço Ferramenta S7 , 7.83 , 207 , E=30000 ksi ,
-, Aço Ferramenta P20 , 7.85 , 200 , E=190-210 GPa ,
-, Aço Maraging C250 (VascoMax C-250) , 8.05 , 195 , D=8-8.1 g/cm3; E=180-210 GPa ,
-, Aço Maraging C300 , 8 , 190 , E=27600 ksi ,
-, Aço Maraging C350 , 8.02 , 200 , E=29000 ksi ,
-, Ferro Fundido Maleável ASTM A47 Grau 32510 , , 172 , Densidade não disponível; E=25 Mpsi ,
-, Ferro Fundido Maleável ASTM A220 , 7.325 , 172 , D=7.2-7.45 g/cm3; E=25000 ksi ,
-, Ferro Fundido Ni-Hard 1 (ASTM A532 Classe 1 Tipo A) , 7.7 , 176 , D=7.6-7.8 g/cm3; E=24-26 GPa ,
-, Ferro Fundido Ni-Hard 4 (ASTM A532 Classe 1 Tipo D) , 7.31 , 196 , D=0.264 lb/in3 ,
-, Ferro Fundido Ni-Resist D2 (ASTM A439 Grau D2) , 7.41 , 140 , D=0.268 lb/in3; E=130-150 kN/mm2 ,
-, Ferro Fundido Vermicular (CGI) GJV 400 , 7.05 , 145 , D=7.0-7.1 g/cm3; E=140-150 GPa a 25°C ,
-, Ferro Fundido Vermicular (CGI) GJV 450 , 7.1 , 150 , D=7.0-7.2 g/cm3; E=145-155 GPa a 25°C ,
-, Alumínio 1050 H14 , 2.7075 , 70 , D=2.705-2.71 g/cm3; E=69-71 GPa ,
-, Alumínio 1060 , 2.705 , 69 , ,
-, Alumínio 1100 H14 , 2.71 , 69 , ,
-, Alumínio 2011 T3 , 2.823 , 70.329 , D=0.102 lb/in3; E=10200 ksi ,
-, Alumínio 2014 T6 (T651) , 2.8 , 72.75 , E=média de 72.4 e 73.1 GPa ,
-, Alumínio 2024 T3 , 2.78 , 73.1 , ,
-, Alumínio 3003 H14 , , , Dados de densidade e módulo não encontrados diretamente para H14 ,
-, Alumínio 3004 , 2.7 , 75 , D=2.6-2.8 g/cm3; E=70-80 GPa ,
-, Alumínio 5005 H24 , 2.7 , 68 , E=9.9 Mpsi ,
-, Alumínio 5052 H32 , 2.68 , 70.3 , ,
-, Alumínio 5083 H116 (H321) , 2.66 , 70.65 , E=média de 70.3 e 71 GPa ,
-, Alumínio 5086 H116 (H32) , 2.66 , 71 , ,
-, Alumínio 6060 T5 , 2.7 , 69.5 , ,
-, Alumínio 6061 T6 (T651) , 2.7 , 68.9 , ,
-, Alumínio 6063 T5 , 2.7 , 68.9 , ,
-, Alumínio 6082 T6 , 2.7 , 70 , ,
-, Alumínio 7050 T7451 (T73651) , 2.83 , 71.7 , ,
-, Alumínio 7075 T6 (T651) , 2.81 , 71.7 , ,
-, Alumínio Fundido A319.0-F , 2.79 , 74 , ,
-, Alumínio Fundido A356.0-T6 , 2.6 , 70 , ,
-, Alumínio Fundido A380.0-F , 2.805 , 73 , D=2.71-2.9 g/cm3; E=11 Mpsi ,
-, Alumínio Fundido A390.0 , 2.7 , 75 , E=11 Mpsi ,
-, Cobre C10100 (OFE) , 8.915 , 115 , D=8.89-8.94 g/cm3; E=17000 ksi ,
-, Cobre C10200 (OF) , 8.94 , 117.21 , D=0.323 lb/in3; E=17000 ksi ,
-, Cobre C11000 (ETP) , 8.92 , 130 , ,
-, Cobre C12200 (DHP) , 8.94 , 120 , D=0.323 lb/in3; E=17400 ksi (média de 17000-17400) ,
-, Latão C22000 (Bronze Comercial 90%) , 8.8 , 115 , ,
-, Latão C23000 (Latão Vermelho 85%) , 8.67 , 110.317 , E=16000 ksi ,
-, Latão C26000 (Latão de Cartucho 70%) , 8.53 , 110.317 , E=16000 ksi ,
-, Latão C27000 (Latão Amarelo 65%) , 8.47 , 103 , E=15000 ksi ,
-, Latão C36000 (Latão de Corte Livre) , 8.5 , 96.53 , D=0.307 lb/in3; E=14000 ksi ,
-, Bronze C51000 (Bronze Fosforoso 5% A) , 8.86 , 110.31 , E=16000 ksi ,
-, Bronze C52100 (Bronze Fosforoso 8% C) , 8.8 , 110.31 , E=16000 ksi ,
-, Bronze C61400 (Bronze de Alumínio) , 7.89 , 117.21 , D=0.285 lb/in3; E=17000 ksi ,
-, Bronze C63000 (Bronze de Níquel-Alumínio) , 7.58 , 120.65 , E=17500 ksi ,
-, Bronze C65500 (Bronze de Alto Silício A) , 8.53 , 103.421 , D=0.308 lb/in3; E=15000 ksi (média de 117 GPa) ,
-, Bronze C90300 (Bronze de Estanho Fundido, Navy G) , 8.8 , 96.5 , E=14000 ksi ,
-, Bronze C93200 (Bronze de Estanho Alto Chumbo, SAE660) , 8.91 , 100 , E=14500 ksi ,
-, Bronze C95400 (Bronze de Alumínio Fundido) , 7.45 , 107 , E=15500 ksi ,
-, Cuproníquel C70600 (90/10) , 8.94 , 124 , E=18000 ksi (média de 140 GPa) ,
-, Cuproníquel C71500 (70/30) , 8.94 , 151.685 , E=22000 ksi (média de 150 GPa) ,
-, Cobre-Berílio C17200 , 8.25 , 127.5 , E=125-130 GPa ,
-, Cobre-Berílio C17300 , 8.25 , 127.5 , E=125-130 GPa ,
-, Cobre-Berílio C17510 , 8.77 , 132.38 , D=0.317 lb/in3; E=19200 ksi ,
-, Magnésio Liga AZ31B-H24 , 1.77 , 45 , ,
-, Magnésio Liga AM60B , 1.8 , 45 , ,
-, Magnésio Liga ZK60A-T5 , 1.83 , 45 , ,
-, Magnésio Liga WE43-T6 , 1.84 , 44.2 , ,
-, Titânio Comercialmente Puro Grau 1 , 4.51 , 107 , ,
-, Titânio Grau 2 , 4.51 , 103.5 , E=média de 102 e 105 GPa ,
-, Titânio Grau 4 , 4.51 , 105 , ,
-, Titânio Ti-3Al-2.5V (Grau 9) , 4.48 , 100 , ,
-, Titânio Ti-6Al-4V (Grau 5) , 4.43 , 113.8 , ,
-, Titânio Ti-6Al-4V ELI (Grau 23) , 4.43 , 110 , E de Ti-6Al-4V usado como proxy ,
-, Titânio Ti-3Al-8V-6Cr-4Mo-4Zr (Beta-C) , 4.816 , 99.285 , D=0.1740 lb/in3; E=14.4 Mpsi ,
-, Ouro Puro (>99.5%) , 19.3 , 78.5 , Média de 19.25-19.35 g/cm3; Média de E=76-81 GPa ,
-, Prata Pura (>99.9%) , 10.485 , 71.5 , Média de 10.47-10.5 g/cm3; Média de E=69-74 GPa ,
-, Platina Pura , 21.45 , 168 , ,
-, Paládio Puro , 12.025 , 121 , Média de 11.95-12.1 g/cm3; Média de E=118-124 GPa ,
-, Molibdênio Liga TZM , 10.22 , 320 , ,
-, Tântalo Comercialmente Puro (R05200) , 16.6 , 182.5 , E=média de 179-186 GPa ,
-, Tântalo Comercialmente Puro (R05400) , 16.6 , 186 , ,
-, Tungstênio Comercialmente Puro , 19.3 , 400 , ,
-, Nióbio Liga C-103 , 8.857 , 89.632 , D=0.32 lb/in3; E=13 Mpsi a 20°C ,
-, Rênio Comercialmente Puro , 21.03 , 469 , ,
-, Háfnio Comercialmente Puro , 13.31 , 141 , E=média de 138-144 GPa ,
-, Níquel 201 , 8.89 , 207 , E=30000 ksi ,
-, Monel K-500 , 8.44 , 179 , ,
-, Inconel 718 , 8.19 , 204.08 , D=0.293 lb/in3; E=29.6 Mpsi a 70°F ,
-, Inconel X-750 , 8.28 , 214 , ,
-, Nimonic 80A , 8.19 , 222 , ,
-, Nimonic 90 , 8.19 , 220 , Média de 213 e 227 kN/mm2 ,
-, Hastelloy B-2 , 9.22 , 217 , ,
-, Hastelloy C-276 , 8.89 , 205 , ,
-, Hastelloy X , 8.22 , 205 , ,
-, Chumbo-Antimônio (4% Sb) , 10.96 , 13.8 , D de 4Sb; E de 1Sb usado como proxy (2 Mpsi) ,
-, Chumbo-Antimônio (6% Sb) , 10.88 , , Densidade de 6Sb; Módulo E não diretamente listado para 6Sb ,
-, Babbitt de Estanho Grau 2 (ASTM B23) , 7.39 , 52 , ,
-, Liga de Zinco Zamak 3 , 6.6 , 85.5 , E=12.4 Mpsi ,
-, Liga de Zinco Zamak 5 , 6.6 , 85.5 , E=12.4 Mpsi ,
-, Liga Bismuto-Estanho (Bi58Sn42 Eutético) , 8.645 , 42.86 , D=média de 8.56-8.73 g/cm3; E=média de 42.72-43 GPa ,
-, Cádmio Comercialmente Puro , 8.645 , 62.5 , D=média de 8.64-8.65 g/cm3; E=média de 55.2, 61-64 GPa ,
-, Índio Comercialmente Puro , 7.133 , 11.5 , D=média de 6.916, 7.25-7.35 g/cm3; E=média de 10-13, 12.7 GPa ,
-, ABS (Acrilonitrila Butadieno Estireno) , 1.065 , 2.45 , D=média de 1.05-1.08 g/cm3; E=média de 1.4-3.2 GPa (MatWeb/LookPolymers) e 1.9 GPa (Terluran) ,
-, Policarbonato (PC) , 1.2 , 2.4 , ,
-, Polietileno de Alta Densidade (HDPE) , 0.948 , 0.86 , E (tração) ,
-, Polietileno de Baixa Densidade (LDPE) , 0.925 , 0.25 , D=média de 0.91-0.94 g/cm3; E=média de 200-300 MPa ,
-, Polipropileno (PP) Homopolímero , 0.905 , 1.344 , E=195000 psi (tração) ,
-, Polietileno Tereftalato (PET) , 1.37 , 2.95 , E=média de 2800-3100 MPa ,
-, Poli(metil metacrilato) (PMMA) Acrílico , 1.145 , 3 , D=média de 1.1-1.19 g/cm3 ,
-, PVC (Policloreto de Vinila) Rígido Não Plastificado (PVC-U) , 1.45 , 3.15 , D=média relativa de 1.42-1.48; E=média de 3.0-3.3 GPa ,
-, Poliamida 6/6 (Nylon 6/6) , 1.14 , 2.72 , E=média de 2.41 (tração) e 3.03 (flexão) GPa ,
-, Poliamida 6 (Nylon 6) , 1.14 , , Módulo E não especificado ,
-, PEEK (Poliéter Éter Cetona) Ketron 1000 , 1.31 , 4.22 , E=média de 4.14 (tração) e 4.3 (folheto) GPa ,
-, PTFE (Politetrafluoretileno) , 2.2 , 0.5 , ,
-, Acetal Copolímero (POM-C) TECAFORM AH , 1.41 , 2.8 , E (tração) ,
-, Acetal Homopolímero (POM-H) Delrin , 1.41 , 3.103 , E=450000 psi (tração) ,
-, Poliestireno (PS) , 1.0 , 2.4 , E=média de 1.9-2.9 GPa ,
-, Fenólico (PF) Composto de Moldagem , 1.37 , 12.5 , D=média de 1.35-1.39 g/cm3; E é uma média ampla (5-20 GPa) ,
-, Resina Epóxi , 1.25 , 3.2 , D=média de 1.1-1.4 g/cm3; E=média de 2.4-4 GPa ,
-, Poliéster Termofixo (UP) , 1.2 , 3 , Valores representativos, podem variar muito ,
-, Poliuretano (PU) Elastômero , 1.17 , 0.01 , D=média de 0.21-1.5 g/cm3; E=média de 0.00379-0.248 GPa (valor baixo usado) ,
-, Borracha de Silicone , 1.5 , 0.005 , D=média de 1.1-2.3 g/cm3; E muito baixo, valor representativo ,
-, Borracha Natural (NR) , 0.92 , 0.003 , D=média de 0.91-0.93 g/cm3; E=média de 1-5 MPa ,
-, Borracha Neoprene (CR) , 1.23 , 0.006136 , ,
-, Borracha EPDM , 1.43 , 0.006 , ,
-, Borracha SBR (Estireno Butadieno) , 0.94 , 0.006 , E=média de 2-10 MPa ,
-, Borracha Nitrílica (NBR) , 1.0 , 0.004 , ,
-, Alumina (Al₂O₃) 99.5% , 3.92 , 372.5 , D=média de 3.89-3.95 g/cm3; E=média de 370-375 GPa ,
-, Alumina (Al₂O₃) 99.8% , 3.92 , 383 , E=média de 380-386 GPa ,
-, Zircônia (ZrO₂) 3Y-TZP , 6.06 , 205 , D=média de 6.05-6.07 g/cm3 ,
-, Zircônia (ZrO₂) Mg-PSZ , 5.7 , 192.5 , E=média de 185-200 GPa ,
-, Carboneto de Silício (SiC) , 3.155 , 345 , D=média de 3.1-3.21 g/cm3; E=média de 207-483 GPa ,
-, Nitreto de Silício (Si₃N₄) RBSN , 2.35 , 175 , D=média de 2.2-2.5 g/cm3; E=média de 130-220 GPa ,
-, Nitreto de Silício (Si₃N₄) SSN , 3.25 , 300 , ,
-, Carboneto de Boro (B₄C) , 2.515 , 445 , D=média de 2.51-2.52 g/cm3 ,
-, Carboneto de Tungstênio (WC-6%Co) , 14.95 , 600 , ,
-, Sílica Fundida (Vidro SiO₂) , 2.2 , 73 , E=média de 71.2-74.8 GPa ,
-, Vidro Borossilicato (Pyrex/Duran) , 2.23 , 64 , ,
-, Vidro Sodo-Cálcico-Silicato , 2.525 , 73 , D=média de 2.52-2.53 g/cm3; E=média de 72-74 GPa ,
-, Macor (Vitrocerâmica Usinável) , 2.52 , 66.9 , E=média de 65.3-68.67 GPa ,
-, Zerodur (Vitrocerâmica) , 2.53 , 90.3 , ,
-, Vidro Aluminossilicato , 2.63 , 81 , ,
-, Fibra de Carbono/Epóxi T300 , 1.55 , 135 , D calculada (fibra 1.76, epóxi ~1.2); E longitudinal ,
-, Fibra de Vidro E-Glass/Epóxi , 1.9 , 42.25 , D=média de 1.8-2.0 g/cm3; E=média de 39.5-45 GPa longitudinal ,
-, Fibra de Vidro S-Glass/Epóxi , 1.85 , 57.5 , D=média de 1.8-1.9 g/cm3; E=média de 55-60 GPa longitudinal ,
-, Fibra de Aramida Kevlar 49/Epóxi , 1.35 , 74 , D=média de 1.3-1.4 g/cm3; E=média de 70-78 GPa longitudinal ,
-, Alumínio/Carboneto de Silício (Al/SiC 20%) , 2.91 , 102.5 , D=média de 2.81-3.01 g/cm3; E de Specific Modulus/D ,
-, Carboneto de Silício/Carboneto de Silício (SiC/SiC) , 2.985 , 397.5 , Média das fibras SCS-6 e SCS-Ultra ,
-, Madeira Abeto Douglas , 0.435 , 10.85 , D=média de 0.37-0.5 g/cm3; E=média de 8.7-13 GPa ,
-, Madeira Carvalho Vermelho , 0.76 , 11.72 , E=média de 11-12.44 GPa ,
-, Madeira Bordo (Hard Maple) , , 21 , Densidade não especificada; E compressão perpendicular ,
-, Madeira Balsa , 0.163 , 3.86 , ,
-, Madeira Pinho (Southern Yellow) , 0.55 , 12.4 , Specific gravity 0.55; E=1.8 Mpsi ,
-, Espuma de Alumínio (6101-T6) , 0.216 , 0.103 , E (compressão) ,
-, Espuma de Poliuretano Rígida , 0.032 , 0.008 , E estimado baixo, similar a espuma de látex de baixa densidade ,
-, Silício (Si) , 2.329 , 165.9 , E calculado de K_VRH, G_VRH (MP) ,
-, Germânio (Ge) , 5.323 , 103.2 , E calculado de K_VRH, G_VRH (MP) ,
-, Diamante (C) , 3.515 , 1050 , E (K_VRH=442, G_VRH=551 GPa da MP) ,
-, Grafite (C) , 2.267 , 18 , E calculado de K_VRH, G_VRH (MP) ,
-, Nitreto de Boro (BN) cúbico , 3.487 , 800 , Valor de Wikipedia para c-BN ,
-, Carboneto de Titânio (TiC) , 4.93 , 440 , E calculado de K_VRH, G_VRH (MP) ,
-, Dióxido de Titânio (TiO₂) Rutilo , 4.25 , 280 , E calculado de K_VRH, G_VRH (MP) ,
-, Ferro (Fe) CCC , 7.874 , 211 , E calculado de K_VRH, G_VRH (MP) ,
-, Níquel (Ni) CFC , 8.902 , 200 , E calculado de K_VRH, G_VRH (MP) ,
-, Cobre (Cu) CFC , 8.96 , 130 , E calculado de K_VRH, G_VRH (MP) ,
-, Alumínio (Al) CFC , 2.702 , 70 , E calculado de K_VRH, G_VRH (MP) ,
-, Magnésio (Mg) HC , 1.738 , 45 , E calculado de K_VRH, G_VRH (MP) ,
-, Tungstênio (W) CCC , 19.3 , 411 , E calculado de K_VRH, G_VRH (MP) ,
-, Molibdênio (Mo) CCC , 10.28 , 329 , E calculado de K_VRH, G_VRH (MP) ,
-, Nióbio (Nb) CCC , 8.57 , 105 , E calculado de K_VRH, G_VRH (MP) ,
-, Tântalo (Ta) CCC , 16.69 , 186 , E calculado de K_VRH, G_VRH (MP) ,
-, Cromo (Cr) CCC , 7.19 , 279 , E calculado de K_VRH, G_VRH (MP) ,
-, Vanádio (V) CCC , 6.11 , 128 , E calculado de K_VRH, G_VRH (MP) ,
-, Zircônio (Zr) HC , 6.52 , 98 , E calculado de K_VRH, G_VRH (MP) ,
-, Sílica (SiO₂) Alfa-Quartzo , 2.648 , 94.7 , E calculado de K_VRH, G_VRH (MP) ,
-, Carboneto de Tungstênio (WC) , 15.63 , 707 , E calculado de K_VRH, G_VRH (MP) ,
-, Nitreto de Titânio (TiN) , 5.22 , 593 , E calculado de K_VRH, G_VRH (MP) ,
-, Óxido de Magnésio (MgO) , 3.581 , 296 , E calculado de K_VRH, G_VRH (MP) ,
-, Óxido de Zinco (ZnO) Wurtzita , 5.606 , 140 , E calculado de K_VRH, G_VRH (MP) ,
-, Aço Inoxidável AISI 316 , 8 , 193 , ,
-, Aço Inoxidável AISI 304 , 8 , 193 , ,
-, Madeira Carvalho (geral) , 0.75 , 12 , Valor genérico EngineeringToolbox ,
-, Madeira Pinho (geral) , 0.43 , 9 , Valor genérico EngineeringToolbox ,
-, Concreto (geral) , 2.4 , 30 , E para alta resistência ,
-, Alumina (Al₂O₃) 96% , 3.72 , 303 , ,
-, Alumina (Al₂O₃) 90% , , 275 , Densidade não fornecida ,
-, Zircônia (ZrO₂) 3mol% Y₂O₃ , , 205 , Densidade não fornecida ,
-, Silício Monocristalino (100) , , 129 , Densidade não fornecida ,
-, Silício Monocristalino (110) , , 168 , Densidade não fornecida ,
-, Silício Monocristalino (111) , , 187 , Densidade não fornecida ,
-, Nitreto de Silício (Si₃N₄) Ligado por Reação , , 304 , Densidade não fornecida ,
-, Nitreto de Silício (Si₃N₄) Prensado a Quente , , 304 , Densidade não fornecida ,
-, Nitreto de Silício (Si₃N₄) Sinterizado , , 304 , Densidade não fornecida ,
-, Diamante Natural , , 950 , E=média de 700-1200 GPa; Densidade não fornecida ,
-, Diamante Sintético , , 862.5 , E=média de 800-925 GPa; Densidade não fornecida ,
-, Vidro Borossilicato (Pyrex) , , 70 , Densidade não fornecida ,
-, Vidro Sodo-Cálcico , , 69 , Densidade não fornecida ,
-, Vitrocerâmica (Pyroceram) , , 120 , Densidade não fornecida ,
-, Concreto para Construção , , 31 , E=média de 25.4-36.6 GPa; Densidade não fornecida ,
-, Refratário de Alta Alumina , , 125 , E=média de 100-150 GPa; Densidade não fornecida ,
-, Refratário MgO-C , , 55 , E=média de 40-70 GPa; Densidade não fornecida ,
-, Refratário de Argila Refratária , , 40 , E=média de 30-50 GPa; Densidade não fornecida ,
-, Refratário de Carboneto de Silício , , 40 , E=média de 30-50 GPa; Densidade não fornecida ,
-, Refratário de Mulita , , 20 , E=média de 15-25 GPa; Densidade não fornecida ,
-, Poli(cloreto de vinila) (PVC) , 1.33 , 3.255 , D=média de 1.3-1.36 g/cm3 (PVC); E=média de 2.41-4.14 GPa ,
-, Epóxi , 1.25 , 2.41 , D=média de 1.1-1.4 g/cm3 (Epoxy); E=2.41 GPa ,
-, Fenólico , 1.35 , 3.795 , D=média de 1.3-1.4 g/cm3 (Phenolic); E=média de 2.76-4.83 GPa ,
-, Poliamida 66 (Nylon 66) , 1.14 , 2.69 , E=média de 1.59-3.79 GPa ,
-, Poli(butileno tereftalato) (PBT) , 1.31 , 2.465 , E=média de 1.93-3.00 GPa ,
-, Poliéter Éter Cetona (PEEK) , 1.3 , 1.1 , D=1.3 g/cm3 (PEEK); E=1.10 GPa ,
-, Polietileno de Baixa Densidade (LDPE) , 0.92 , 1.08 , D=0.92 g/cm3 (LDPE); E=1.08 GPa ,
-, Poli(etileno tereftalato) (PET) , 1.38 , 3.45 , E=média de 2.76-4.14 GPa ,
-, Poli(metil metacrilato) (PMMA) , 1.19 , 2.74 , E=média de 2.24-3.24 GPa ,
-, Polipropileno (PP) , 0.905 , 1.345 , E=média de 1.14-1.55 GPa ,
-, Poliestireno (PS) , 1.05 , 2.78 , E=média de 2.28-3.28 GPa ,
-, Alumina 96% , 3.75 , , Módulo E não fornecido ,
-, Alumina 99.7% , 3.95 , , Módulo E não fornecido ,
-, Alumina 99.95% , 3.98 , , Módulo E não fornecido ,
-, ZTA (Alumina Tenacificada com Zircônia) , 4.1 , , Módulo E não fornecido ,
-, ZTA Ultra Dura , 4.18 , , Módulo E não fornecido ,
-, ATZ (Zircônia Tenacificada com Alumina) , 5.5 , , Módulo E não fornecido ,
-, Zircônia Ultra Tenaz , 5.7 , , Módulo E não fornecido ,
-, Zircônia Ultra Tenaz HIP , 5.7 , , Módulo E não fornecido ,
-, Zircônia 3YZ , 6.05 , , Módulo E não fornecido ,
-, Zircônia Nano HIP , 6.07 , , Módulo E não fornecido ,
-, Nitreto de Alumínio PCAN1000 , 3.32 , , Módulo E não fornecido ,
-, Nitreto de Alumínio PCAN2000 , 3.32 , , Módulo E não fornecido ,
-, Nitreto de Alumínio PCAN3000 , 3.32 , , Módulo E não fornecido ,
-, Nitreto de Alumínio PCAN4000 , 3.3 , , Módulo E não fornecido ,
-, Nitreto de Alumínio PCAN1000S , 3.3 , , Módulo E não fornecido ,
-, Carboneto de Silício (Precision Ceramics) , 3.1 , , Módulo E não fornecido ,
-, Carboneto de Boro (Precision Ceramics) , 2.52 , , Módulo E não fornecido ,
-, Nitreto de Silício PCSN1000 , 3.3 , , D=média de 3.2-3.4 g/cm3; Módulo E não fornecido ,
-, Nitreto de Silício PCSN2000 , 3.3 , , D=média de 3.2-3.4 g/cm3; Módulo E não fornecido ,
-, Nitreto de Silício PCSN3000 , 3.25 , , D=média de 3.2-3.3 g/cm3; Módulo E não fornecido ,
-, Nitreto de Silício PCSN4000 , 3.23 , , Módulo E não fornecido ,
-, Shapal Hi M Soft , 2.88 , , Módulo E não fornecido ,
-, Macor (Precision Ceramics) , 2.52 , , Módulo E não fornecido ,
-, Nitreto de Boro PCBN1000 (Puro) , 1.9 , , Módulo E não fornecido ,
-, Nitreto de Boro PCBN3000 (Puro) , 1.9 , , Módulo E não fornecido ,
-, Nitreto de Boro Grau AX05 (Puro) , 1.9 , , Módulo E não fornecido ,
-, Nitreto de Boro PCBN2000 (Com Aglutinante) , 2.1 , , Módulo E não fornecido ,
-, Nitreto de Boro PCBN4000 (Com Aglutinante) , 1.95 , , D=média de 1.85-2.05 g/cm3; Módulo E não fornecido ,
-, Nitreto de Boro PCBN5000 (Com Aglutinante) , 2.0 , , Módulo E não fornecido ,
-, Nitreto de Boro Grau A (Mecânico) , 2.0 , , Módulo E não fornecido ,
-, Nitreto de Boro Grau HP (Mecânico) , 2.0 , , Módulo E não fornecido ,
-, Nitreto de Boro Grau M26 (Mecânico) , 2.1 , , Módulo E não fornecido ,
-, Nitreto de Boro Grau ZSBN (Mecânico) , 2.9 , , Módulo E não fornecido ,
-, Ferro Fundido Cinzento Grau 20 , 7.15 , 100 , ,
-, Aço AISI 1045 , 7.865 , 205 , D=média de 7.7-8.03 g/cm3 ,
-, Alumínio 2045-T4 , 2.7 , 73 , ,
-, Alumínio 6061-T6 (EngineeringToolbox) , 2.7 , 69 , ,
-, Madeira Carvalho (EngineeringToolbox) , 0.76 , 11 , ,
-, Madeira Pinho (EngineeringToolbox) , 0.43 , 9 , ,
-, Concreto Alta Resistência , 2.4 , 30 , ,
-, Aço Estrutural ASTM A36 , 7.85 , 200 , ,
-, Aço Inoxidável AISI 302 , 7.86 , 180 , ,
-, Liga de Titânio (genérica) , 4.5 , 112.5 , E=média de 105-120 GPa ,
-, Carboneto de Tungstênio (WC) (EngineeringToolbox) , 15.7 , 550 , E=média de 450-650 GPa ,
-, "Liga de aço A36" , 7.85 , 207 , ,
-, "Liga de aço 1020" , 7.85 , 207 , ,
-, "Liga de aço 1040" , 7.85 , 207 , ,
-, "Liga de aço 4140" , 7.85 , 207 , ,
-, "Liga de aço 4340" , 7.85 , 207 , ,
-, "Liga inoxidável 304" , 8.00 , 193 , ,
-, "Liga inoxidável 316" , 8.00 , 193 , ,
-, "Liga inoxidável 405" , 7.80 , 200 , ,
-, "Liga inoxidável 440A" , 7.80 , 200 , ,
-, "Liga inoxidável 17-7PH" , 7.65 , 204 , ,
-, "Ferros cinzentos, Classe G1800" , 7.30 , 81.5 , Módulo: 66-97 ,
-, "Ferros cinzentos, Classe G3000" , 7.30 , 101.5 , Módulo: 90-113 ,
-
-
-
+"Liga de aço A36",7.85,207,
+"Liga de aço 1020",7.85,207,
+"Liga de aço 1040",7.85,207,
+"Liga de aço 4140",7.85,207,
+"Liga de aço 4340",7.85,207,
+"Liga inoxidável 304",8.00,193,
+"Liga inoxidável 316",8.00,193,
+"Liga inoxidável 405",7.80,200,
+"Liga inoxidável 440A",7.80,200,
+"Liga inoxidável 17-7PH",7.65,204,
+"Ferros cinzentos, Classe G1800",7.30,81.5,"Módulo: 66-97"
+"Ferros cinzentos, Classe G3000",7.30,101.5,"Módulo: 90-113"
+"Ferros cinzentos, Classe G4000",7.30,124,"Módulo: 110-138"
+"Ferros nodulares, Classe 60-40-18",7.10,169,
+"Ferros nodulares, Classe 80-55-06",7.10,168,
+"Ferros nodulares, Classe 120-90-02",7.10,164,
+"Liga de Alumínio 1100",2.71,69,
+"Liga de Alumínio 2024",2.77,72.4,
+"Liga de Alumínio 6061",2.70,69,
+"Liga de Alumínio 7075",2.80,71,
+"Liga de Alumínio 356.0",2.69,72.4,
+"Cobre C11000 (cobre eletrolítico tenaz)",8.89,115,
+"Cobre C17200 (berílio-cobre)",8.25,128,
+"Cobre C26000 (latão para cartuchos)",8.53,110,
+"Cobre C36000 (latão de fácil usinagem)",8.50,97,
+"Cobre C71500 (cobre-níquel, 30%)",8.94,150,
+"Cobre C93200 (bronze para mancais)",8.93,100,
+"Liga de Magnésio AZ31B",1.77,45,
+"Liga de Magnésio AZ91D",1.81,45,
+"Titânio Comercialmente puro (ASTM classe 1)",4.51,103,
+"Liga Ti-5Al-2.5Sn",4.48,110,
+"Liga Ti-6Al-4V",4.43,114,
+"Ouro (comercialmente puro)",19.32,77,
+"Platina (comercialmente pura)",21.45,171,
+"Prata (comercialmente pura)",10.49,74,
+"Molibdênio (comercialmente puro)",10.22,320,
+"Tântalo (comercialmente puro)",16.6,185,
+"Tungstênio (comercialmente puro)",19.3,400,
+"Níquel 200",8.89,204,
+"Inconel 625",8.44,207,
+"Monel 400",8.80,180,
+"Liga Haynes 25",9.13,236,
+"Invar",8.05,141,
+"Superinvar",8.10,144,
+"Kovar",8.36,207,
+"Chumbo químico",11.34,13.5,
+"Chumbo antimonial (6%)",10.88,"N/D",
+"Estanho (comercialmente puro)",7.17,44.3,
+"Solda chumbo-estanho (60 Sn-40 Pb)",8.52,30,
+"Zinco (comercialmente puro)",7.14,104.5,
+"Zircônio, classe 702 para reatores",6.51,99.3,
+"Óxido de alumínio, 99.9% puro",3.98,380,
+"Óxido de alumínio, 96% puro",3.72,303,
+"Óxido de alumínio, 90% puro",3.60,275,
+"Concreto",2.4,31,"Módulo: 25.4-36.6"
+"Diamante, Natural",3.51,950,"Módulo: 700-1200"
+"Diamante, Sintético",3.36,862.5,"Densidade: 3.20-3.52; Módulo: 800-925"
+"Arseneto de gálio (direção 100)",5.32,85,
+"Arseneto de gálio (direção 110)",5.32,122,
+"Arseneto de gálio (direção 111)",5.32,142,
+"Vidro, borossilicato (Pyrex)",2.23,70,
+"Vidro, sodo-cálcico",2.5,69,
+"Vitrocerâmico (Pyroceram)",2.60,120,
+"Grafita, Extrudada",1.71,11,
+"Grafita, Conformada isostaticamente",1.78,11.7,
+"Sílica, fundida",2.2,73,
+"Silício (direção 100)",2.33,129,
+"Silício (direção 110)",2.33,168,
+"Silício (direção 111)",2.33,187,
+"Carbeto de silício, Prensado a quente",3.3,345,"Módulo: 207-483"
+"Carbeto de silício, Sinterizado",3.2,345,"Módulo: 207-483"
+"Nitreto de silício, Prensado a quente",3.3,304,
+"Nitreto de silício, Unido por reação",2.7,304,
+"Nitreto de silício, Sinterizado",3.3,304,
+"Zircônia, 3 mol% Y2O3, sinterizada",6.0,205,
+"Acrilonitrila-butadieno-estireno (ABS)",1.20,2.00,"Valores de referência"
+"Butadieno-acrilonitrila (nitrila)",0.98,0.0034,
+"Estireno-butadieno (SBR)",0.94,0.006,"Módulo: 0.002-0.010"
+"Silicone",1.35,"N/D","Densidade: 1.1-1.6"
+"Epóxi",1.255,2.41,"Densidade: 1.11-1.40"
+"Náilon 6,6",1.14,2.69,"Módulo: 1.59-3.79"
+"Fenólico",1.28,3.795,"Módulo: 2.76-4.83"
+"Poli(tereftalato de butileno) (PBT)",1.34,2.465,"Módulo: 1.93-3.00"
+"Policarbonato (PC)",1.20,2.38,
+"Poliéster (termorrígido)",1.25,3.235,"Densidade: 1.04-1.46; Módulo: 2.06-4.41"
+"Poli(éter-éter-cetona) (PEEK)",1.31,1.10,
+"Polietileno, Baixa densidade (LDPE)",0.925,0.227,"Módulo: 0.172-0.282"
+"Polietileno, Alta densidade (HDPE)",0.959,1.08,
+"Polietileno, Ultra-alto peso molecular (UHMWPE)",0.94,0.69,
+"Poli(tereftalato de etileno) (PET)",1.35,3.45,"Módulo: 2.76-4.14"
+"Poli(metacrilato de metila) (PMMA)",1.19,2.74,"Módulo: 2.24-3.24"
+"Polipropileno (PP)",0.905,1.345,"Módulo: 1.14-1.55"
+"Poliestireno (PS)",1.05,2.78,"Módulo: 2.28-3.28"
+"Politetrafluoretileno (PTFE)",2.17,0.475,"Módulo: 0.40-0.55"
+"Poli(cloreto de vinila) (PVC)",1.44,3.275,"Densidade: 1.30-1.58; Módulo: 2.41-4.14"
+"Aramida (Kevlar 49)",1.44,131,
+"Carbono, Módulo-padrão (precursor PAN)",1.78,230,
+"Carbono, Módulo intermediário (precursor PAN)",1.78,285,
+"Carbono, Módulo alto (precursor PAN)",1.81,400,
+"Carbono, Módulo ultra-alto (precursor piche)",2.155,730,"Densidade: 2.12-2.19; Módulo: 520-940"
+"Vidro-E",2.58,72.5,
+"Fibras de aramida-matriz epóxi (Vf=0.60) - Longitudinal",1.4,76,
+"Fibras de aramida-matriz epóxi (Vf=0.60) - Transversal",1.4,5.5,
+"Fibras de carbono de módulo alto-matriz epóxi (Vf=0.60) - Longitudinal",1.7,220,
+"Fibras de carbono de módulo alto-matriz epóxi (Vf=0.60) - Transversal",1.7,6.9,
+"Fibras de vidro-E-matriz epóxi (Vf=0.60) - Longitudinal",2.1,45,
+"Fibras de vidro-E-matriz epóxi (Vf=0.60) - Transversal",2.1,12,
+"Madeira, Pinheiro de Douglas (12% umidade) - Paralelo ao grão",0.48,12.2,"Densidade: 0.46-0.50; Módulo: 10.8-13.6"
+"Madeira, Pinheiro de Douglas (12% umidade) - Perpendicular ao grão",0.48,0.61,"Densidade: 0.46-0.50; Módulo: 0.54-0.68"
+"Madeira, Carvalho vermelho (12% umidade) - Paralelo ao grão",0.64,12.575,"Densidade: 0.61-0.67; Módulo: 11.0-14.15"
+"Madeira, Carvalho vermelho (12% umidade) - Perpendicular ao grão",0.64,0.63,"Densidade: 0.61-0.67; Módulo: 0.55-0.71"
+"Aço AISI 1010",7.87,205,"E típico para aço"
+"Aço AISI 1010",7.87,205,"E típico para aço"
+"Aço AISI 1030",7.86,200,"Média de valores reportados; E=29-30 Msi"
+"Aço AISI 1050",7.85,200,"Média de valores reportados; E=190-210 GPa ou 29 Msi"
+"Aço AISI 1080",7.865,200,"D=7.7-8.03 g/cm3; E=190-210 GPa"
+"Aço AISI 1095",7.865,200,"D=7.7-8.03 g/cm3; E=190-210 GPa ou 30 Msi"
+"Aço AISI 4130",7.85,205,"E típico para aço"
+"Aço AISI 4150",7.85,200,"E=190-210 GPa"
+"Aço AISI 4320",7.85,200,"E=190-210 GPa"
+"Aço AISI 52100",7.81,200,"E=190-210 GPa"
+"Aço AISI 8620",7.85,205,"E típico para aço"
+"Aço AISI 8620",7.85,205,"E típico para aço"
+"Aço ASTM A514",7.85,190,"Média de 7.8-7.9 g/cm3"
+"Aço ASTM A572 Grau 50",7.865,200,"D=7.7-8.03 g/cm3; E=190-210 GPa"
+"Aço Inoxidável Allegheny Ludlum Tipo 301",8.03,185,"E=174 GPa (laminado), 196 GPa (aliviado de tensões)"
+"Aço Inoxidável AISI Tipo 302",7.86,193,
+"Aço Inoxidável AISI Tipo 303",8,193,
+"Aço Inoxidável AISI Tipo 304L",8,196.5,"E=193-200 GPa"
+"Aço Inoxidável AISI Tipo 316L",8,193,
+"Aço Inoxidável Liga 317L",7.89,200,"E=29.0 x 10^6 psi"
+"Aço Inoxidável AISI Tipo 321",8,196.5,"E=193-200 GPa"
+"Aço Inoxidável Tipo 409",7.75,208.22,"E=30.2 x 10^3 ksi"
+"Aço Inoxidável AISI Tipo 410S",7.8,"","Módulo E não disponível"
+"Aço Inoxidável AISI Tipo 410",7.8,"","Módulo E não disponível"
+"Aço Inoxidável Liga 416",7.75,200,
+"Aço Inoxidável AISI Tipo 420",7.8,"","Módulo Cisalhamento=80.7 GPa; Módulo E não disponível"
+"Aço Inoxidável 434",7.75,200,"E=29000 ksi"
+"Aço Inoxidável AISI Tipo 430",7.8,200,
+"Aço Inoxidável Martensítico Grau 440C",7.65,200,
+"Aço Inoxidável Duplex 2205 (UNS S31803/S32205)",7.805,190.29,"D=0.278 lb/in3; E=27.6 Mpsi a 70°F"
+"Aço Inoxidável Super Duplex SAF 2507 (UNS S32750)",7.8,200,"E=29x10^3 ksi"
+"Aço Inoxidável PH 15-5PH",7.8,200,"E típico para aço inox"
+"Aço Inoxidável PH Vasco 17-4PH",7.78,202,"E=29.25 Msi (média de 197-207 GPa)"
+"Aço Ferramenta H13",7.8,215,"E=31200 ksi"
+"Aço Ferramenta A2",7.805,200,"D=média de 7.75-7.86 g/cm3; E=média de 190-207 GPa"
+"Aço Ferramenta D2",7.675,200,"D=média de 7.6-7.7 g/cm3; E=média de 190-210 GPa"
+"Aço Ferramenta M2",8.16,193.05,"D=0.295 lb/in3; E=28 Mpsi"
+"Aço Ferramenta O1",7.81,193,
+"Aço Ferramenta S1",7.89,207,"E=30000 ksi"
+"Aço Ferramenta S7",7.83,207,"E=30000 ksi"
+"Aço Ferramenta P20",7.85,200,"E=190-210 GPa"
+"Aço Maraging C250 (VascoMax C-250)",8.05,195,"D=8-8.1 g/cm3; E=180-210 GPa"
+"Aço Maraging C300",8,190,"E=27600 ksi"
+"Aço Maraging C350",8.02,200,"E=29000 ksi"
+"Ferro Fundido Maleável ASTM A47 Grau 32510","",172,"Densidade não disponível; E=25 Mpsi"
+"Ferro Fundido Maleável ASTM A220",7.325,172,"D=7.2-7.45 g/cm3; E=25000 ksi"
+"Ferro Fundido Ni-Hard 1 (ASTM A532 Classe 1 Tipo A)",7.7,176,"D=7.6-7.8 g/cm3; E=24-26 GPa"
+"Ferro Fundido Ni-Hard 4 (ASTM A532 Classe 1 Tipo D)",7.31,196,"D=0.264 lb/in3"
+"Ferro Fundido Ni-Resist D2 (ASTM A439 Grau D2)",7.41,140,"D=0.268 lb/in3; E=130-150 kN/mm2"
+"Ferro Fundido Vermicular (CGI) GJV 400",7.05,145,"D=7.0-7.1 g/cm3; E=140-150 GPa a 25°C"
+"Ferro Fundido Vermicular (CGI) GJV 450",7.1,150,"D=7.0-7.2 g/cm3; E=145-155 GPa a 25°C"
+"Alumínio 1050 H14",2.7075,70,"D=2.705-2.71 g/cm3; E=69-71 GPa"
+"Alumínio 1060",2.705,69,
+"Alumínio 1100 H14",2.71,69,
+"Alumínio 2011 T3",2.823,70.329,"D=0.102 lb/in3; E=10200 ksi"
+"Alumínio 2014 T6 (T651)",2.8,72.75,"E=média de 72.4 e 73.1 GPa"
+"Alumínio 2024 T3",2.78,73.1,
+"Alumínio 3003 H14","","","Dados de densidade e módulo não encontrados diretamente para H14"
+"Alumínio 3004",2.7,75,"D=2.6-2.8 g/cm3; E=70-80 GPa"
+"Alumínio 5005 H24",2.7,68,"E=9.9 Mpsi"
+"Alumínio 5052 H32",2.68,70.3,
+"Alumínio 5083 H116 (H321)",2.66,70.65,"E=média de 70.3 e 71 GPa"
+"Alumínio 5086 H116 (H32)",2.66,71,
+"Alumínio 6060 T5",2.7,69.5,
+"Alumínio 6061 T6 (T651)",2.7,68.9,
+"Alumínio 6063 T5",2.7,68.9,
+"Alumínio 6082 T6",2.7,70,
+"Alumínio 7050 T7451 (T73651)",2.83,71.7,
+"Alumínio 7075 T6 (T651)",2.81,71.7,
+"Alumínio Fundido A319.0-F",2.79,74,
+"Alumínio Fundido A356.0-T6",2.6,70,
+"Alumínio Fundido A380.0-F",2.805,73,"D=2.71-2.9 g/cm3; E=11 Mpsi"
+"Alumínio Fundido A390.0",2.7,75,"E=11 Mpsi"
+"Cobre C10100 (OFE)",8.915,115,"D=8.89-8.94 g/cm3; E=17000 ksi"
+"Cobre C10200 (OF)",8.94,117.21,"D=0.323 lb/in3; E=17000 ksi"
+"Cobre C11000 (ETP)",8.92,130,
+"Cobre C12200 (DHP)",8.94,120,"D=0.323 lb/in3; E=17400 ksi (média de 17000-17400)"
+"Latão C22000 (Bronze Comercial 90%)",8.8,115,
+"Latão C23000 (Latão Vermelho 85%)",8.67,110.317,"E=16000 ksi"
+"Latão C26000 (Latão de Cartucho 70%)",8.53,110.317,"E=16000 ksi"
+"Latão C27000 (Latão Amarelo 65%)",8.47,103,"E=15000 ksi"
+"Latão C36000 (Latão de Corte Livre)",8.5,96.53,"D=0.307 lb/in3; E=14000 ksi"
+"Bronze C51000 (Bronze Fosforoso 5% A)",8.86,110.31,"E=16000 ksi"
+"Bronze C52100 (Bronze Fosforoso 8% C)",8.8,110.31,"E=16000 ksi"
+"Bronze C61400 (Bronze de Alumínio)",7.89,117.21,"D=0.285 lb/in3; E=17000 ksi"
+"Bronze C63000 (Bronze de Níquel-Alumínio)",7.58,120.65,"E=17500 ksi"
+"Bronze C65500 (Bronze de Alto Silício A)",8.53,103.421,"D=0.308 lb/in3; E=15000 ksi (média de 117 GPa)"
+"Bronze C90300 (Bronze de Estanho Fundido, Navy G)",8.8,96.5,"E=14000 ksi"
+"Bronze C93200 (Bronze de Estanho Alto Chumbo, SAE660)",8.91,100,"E=14500 ksi"
+"Bronze C95400 (Bronze de Alumínio Fundido)",7.45,107,"E=15500 ksi"
+"Cuproníquel C70600 (90/10)",8.94,124,"E=18000 ksi (média de 140 GPa)"
+"Cuproníquel C71500 (70/30)",8.94,151.685,"E=22000 ksi (média de 150 GPa)"
+"Cobre-Berílio C17200",8.25,127.5,"E=125-130 GPa"
+"Cobre-Berílio C17300",8.25,127.5,"E=125-130 GPa"
+"Cobre-Berílio C17510",8.77,132.38,"D=0.317 lb/in3; E=19200 ksi"
+"Magnésio Liga AZ31B-H24",1.77,45,
+"Magnésio Liga AM60B",1.8,45,
+"Magnésio Liga ZK60A-T5",1.83,45,
+"Magnésio Liga WE43-T6",1.84,44.2,
+"Titânio Comercialmente Puro Grau 1",4.51,107,
+"Titânio Grau 2",4.51,103.5,"E=média de 102 e 105 GPa"
+"Titânio Grau 4",4.51,105,
+"Titânio Ti-3Al-2.5V (Grau 9)",4.48,100,
+"Titânio Ti-6Al-4V (Grau 5)",4.43,113.8,
+"Titânio Ti-6Al-4V ELI (Grau 23)",4.43,110,"E de Ti-6Al-4V usado como proxy"
+"Titânio Ti-3Al-8V-6Cr-4Mo-4Zr (Beta-C)",4.816,99.285,"D=0.1740 lb/in3; E=14.4 Mpsi"
+"Ouro Puro (>99.5%)",19.3,78.5,"Média de 19.25-19.35 g/cm3; Média de E=76-81 GPa"
+"Prata Pura (>99.9%)",10.485,71.5,"Média de 10.47-10.5 g/cm3; Média de E=69-74 GPa"
+"Platina Pura",21.45,168,
+"Paládio Puro",12.025,121,"Média de 11.95-12.1 g/cm3; Média de E=118-124 GPa"
+"Molibdênio Liga TZM",10.22,320,
+"Tântalo Comercialmente Puro (R05200)",16.6,182.5,"E=média de 179-186 GPa"
+"Tântalo Comercialmente Puro (R05400)",16.6,186,
+"Tungstênio Comercialmente Puro",19.3,400,
+"Nióbio Liga C-103",8.857,89.632,"D=0.32 lb/in3; E=13 Mpsi a 20°C"
+"Rênio Comercialmente Puro",21.03,469,
+"Háfnio Comercialmente Puro",13.31,141,"E=média de 138-144 GPa"
+"Níquel 201",8.89,207,"E=30000 ksi"
+"Monel K-500",8.44,179,
+"Inconel 718",8.19,204.08,"D=0.293 lb/in3; E=29.6 Mpsi a 70°F"
+"Inconel X-750",8.28,214,
+"Nimonic 80A",8.19,222,
+"Nimonic 90",8.19,220,"Média de 213 e 227 kN/mm2"
+"Hastelloy B-2",9.22,217,
+"Hastelloy C-276",8.89,205,
+"Hastelloy X",8.22,205,
+"Chumbo-Antimônio (4% Sb)",10.96,13.8,"D de 4Sb; E de 1Sb usado como proxy (2 Mpsi)"
+"Chumbo-Antimônio (6% Sb)",10.88,"","Densidade de 6Sb; Módulo E não diretamente listado para 6Sb"
+"Babbitt de Estanho Grau 2 (ASTM B23)",7.39,52,
+"Liga de Zinco Zamak 3",6.6,85.5,"E=12.4 Mpsi"
+"Liga de Zinco Zamak 5",6.6,85.5,"E=12.4 Mpsi"
+"Liga Bismuto-Estanho (Bi58Sn42 Eutético)",8.645,42.86,"D=média de 8.56-8.73 g/cm3; E=média de 42.72-43 GPa"
+"Cádmio Comercialmente Puro",8.645,62.5,"D=média de 8.64-8.65 g/cm3; E=média de 55.2, 61-64 GPa"
+"Índio Comercialmente Puro",7.133,11.5,"D=média de 6.916, 7.25-7.35 g/cm3; E=média de 10-13, 12.7 GPa"
+"ABS (Acrilonitrila Butadieno Estireno)",1.065,2.45,"D=média de 1.05-1.08 g/cm3; E=média de 1.4-3.2 GPa (MatWeb/LookPolymers) e 1.9 GPa (Terluran)"
+"Policarbonato (PC)",1.2,2.4,
+"Polietileno de Alta Densidade (HDPE)",0.948,0.86,"E (tração)"
+"Polietileno de Baixa Densidade (LDPE)",0.925,0.25,"D=média de 0.91-0.94 g/cm3; E=média de 200-300 MPa"
+"Polipropileno (PP) Homopolímero",0.905,1.344,"E=195000 psi (tração)"
+"Polietileno Tereftalato (PET)",1.37,2.95,"E=média de 2800-3100 MPa"
+"Poli(metil metacrilato) (PMMA) Acrílico",1.145,3,"D=média de 1.1-1.19 g/cm3"
+"PVC (Policloreto de Vinila) Rígido Não Plastificado (PVC-U)",1.45,3.15,"D=média relativa de 1.42-1.48; E=média de 3.0-3.3 GPa"
+"Poliamida 6/6 (Nylon 6/6)",1.14,2.72,"E=média de 2.41 (tração) e 3.03 (flexão) GPa"
+"Poliamida 6 (Nylon 6)",1.14,"","Módulo E não especificado"
+"PEEK (Poliéter Éter Cetona) Ketron 1000",1.31,4.22,"E=média de 4.14 (tração) e 4.3 (folheto) GPa"
+"PTFE (Politetrafluoretileno)",2.2,0.5,
+"Acetal Copolímero (POM-C) TECAFORM AH",1.41,2.8,"E (tração)"
+"Acetal Homopolímero (POM-H) Delrin",1.41,3.103,"E=450000 psi (tração)"
+"Poliestireno (PS)",1.0,2.4,"E=média de 1.9-2.9 GPa"
+"Fenólico (PF) Composto de Moldagem",1.37,12.5,"D=média de 1.35-1.39 g/cm3; E é uma média ampla (5-20 GPa)"
+"Resina Epóxi",1.25,3.2,"D=média de 1.1-1.4 g/cm3; E=média de 2.4-4 GPa"
+"Poliéster Termofixo (UP)",1.2,3,"Valores representativos, podem variar muito"
+"Poliuretano (PU) Elastômero",1.17,0.01,"D=média de 0.21-1.5 g/cm3; E=média de 0.00379-0.248 GPa (valor baixo usado)"
+"Borracha de Silicone",1.5,0.005,"D=média de 1.1-2.3 g/cm3; E muito baixo, valor representativo"
+"Borracha Natural (NR)",0.92,0.003,"D=média de 0.91-0.93 g/cm3; E=média de 1-5 MPa"
+"Borracha Neoprene (CR)",1.23,0.006136,
+"Borracha EPDM",1.43,0.006,
+"Borracha SBR (Estireno Butadieno)",0.94,0.006,"E=média de 2-10 MPa"
+"Borracha Nitrílica (NBR)",1.0,0.004,
+"Alumina (Al2O3) 99.5%",3.92,372.5,"D=média de 3.89-3.95 g/cm3; E=média de 370-375 GPa"
+"Alumina (Al2O3) 99.8%",3.92,383,"E=média de 380-386 GPa"
+"Zircônia (ZrO2) 3Y-TZP",6.06,205,"D=média de 6.05-6.07 g/cm3"
+"Zircônia (ZrO2) Mg-PSZ",5.7,192.5,"E=média de 185-200 GPa"
+"Carboneto de Silício (SiC)",3.155,345,"D=média de 3.1-3.21 g/cm3; E=média de 207-483 GPa"
+"Nitreto de Silício (Si3N4) RBSN",2.35,175,"D=média de 2.2-2.5 g/cm3; E=média de 130-220 GPa"
+"Nitreto de Silício (Si3N4) SSN",3.25,300,
+"Carboneto de Boro (B4C)",2.515,445,"D=média de 2.51-2.52 g/cm3"
+"Carboneto de Tungstênio (WC-6%Co)",14.95,600,
+"Sílica Fundida (Vidro SiO2)",2.2,73,"E=média de 71.2-74.8 GPa"
+"Vidro Borossilicato (Pyrex/Duran)",2.23,64,
+"Vidro Sodo-Cálcico-Silicato",2.525,73,"D=média de 2.52-2.53 g/cm3; E=média de 72-74 GPa"
+"Macor (Vitrocerâmica Usinável)",2.52,66.9,"E=média de 65.3-68.67 GPa"
+"Zerodur (Vitrocerâmica)",2.53,90.3,
+"Vidro Aluminossilicato",2.63,81,
+"Fibra de Carbono/Epóxi T300",1.55,135,"D calculada (fibra 1.76, epóxi ~1.2); E longitudinal"
+"Fibra de Vidro E-Glass/Epóxi",1.9,42.25,"D=média de 1.8-2.0 g/cm3; E=média de 39.5-45 GPa longitudinal"
+"Fibra de Vidro S-Glass/Epóxi",1.85,57.5,"D=média de 1.8-1.9 g/cm3; E=média de 55-60 GPa longitudinal"
+"Fibra de Aramida Kevlar 49/Epóxi",1.35,74,"D=média de 1.3-1.4 g/cm3; E=média de 70-78 GPa longitudinal"
+"Alumínio/Carboneto de Silício (Al/SiC 20%)",2.91,102.5,"D=média de 2.81-3.01 g/cm3; E de Specific Modulus/D"
+"Carboneto de Silício/Carboneto de Silício (SiC/SiC)",2.985,397.5,"Média das fibras SCS-6 e SCS-Ultra"
+"Madeira Abeto Douglas",0.435,10.85,"D=média de 0.37-0.5 g/cm3; E=média de 8.7-13 GPa"
+"Madeira Carvalho Vermelho",0.76,11.72,"E=média de 11-12.44 GPa"
+"Madeira Bordo (Hard Maple)","",21,"Densidade não especificada; E compressão perpendicular"
+"Madeira Balsa",0.163,3.86,
+"Madeira Pinho (Southern Yellow)",0.55,12.4,"Specific gravity 0.55; E=1.8 Mpsi"
+"Espuma de Alumínio (6101-T6)",0.216,0.103,"E (compressão)"
+"Espuma de Poliuretano Rígida",0.032,0.008,"E estimado baixo, similar a espuma de látex de baixa densidade"
+"Silício (Si)",2.329,165.9,"E calculado de K_VRH, G_VRH (MP)"
+"Germânio (Ge)",5.323,103.2,"E calculado de K_VRH, G_VRH (MP)"
+"Diamante (C)",3.515,1050,"E (K_VRH=442, G_VRH=551 GPa da MP)"
+"Grafite (C)",2.267,18,"E calculado de K_VRH, G_VRH (MP)"
+"Nitreto de Boro (BN) cúbico",3.487,800,"Valor de Wikipedia para c-BN"
+"Carboneto de Titânio (TiC)",4.93,440,"E calculado de K_VRH, G_VRH (MP)"
+"Dióxido de Titânio (TiO2) Rutilo",4.25,280,"E calculado de K_VRH, G_VRH (MP)"
+"Ferro (Fe) CCC",7.874,211,"E calculado de K_VRH, G_VRH (MP)"
+"Níquel (Ni) CFC",8.902,200,"E calculado de K_VRH, G_VRH (MP)"
+"Cobre (Cu) CFC",8.96,130,"E calculado de K_VRH, G_VRH (MP)"
+"Alumínio (Al) CFC",2.702,70,"E calculado de K_VRH, G_VRH (MP)"
+"Magnésio (Mg) HC",1.738,45,"E calculado de K_VRH, G_VRH (MP)"
+"Tungstênio (W) CCC",19.3,411,"E calculado de K_VRH, G_VRH (MP)"
+"Molibdênio (Mo) CCC",10.28,329,"E calculado de K_VRH, G_VRH (MP)"
+"Nióbio (Nb) CCC",8.57,105,"E calculado de K_VRH, G_VRH (MP)"
+"Tântalo (Ta) CCC",16.69,186,"E calculado de K_VRH, G_VRH (MP)"
+"Cromo (Cr) CCC",7.19,279,"E calculado de K_VRH, G_VRH (MP)"
+"Vanádio (V) CCC",6.11,128,"E calculado de K_VRH, G_VRH (MP)"
+"Zircônio (Zr) HC",6.52,98,"E calculado de K_VRH, G_VRH (MP)"
+"Sílica (SiO2) Alfa-Quartzo",2.648,94.7,"E calculado de K_VRH, G_VRH (MP)"
+"Carboneto de Tungstênio (WC)",15.63,707,"E calculado de K_VRH, G_VRH (MP)"
+"Nitreto de Titânio (TiN)",5.22,593,"E calculado de K_VRH, G_VRH (MP)"
+"Óxido de Magnésio (MgO)",3.581,296,"E calculado de K_VRH, G_VRH (MP)"
+"Óxido de Zinco (ZnO) Wurtzita",5.606,140,"E calculado de K_VRH, G_VRH (MP)"
+"Aço Inoxidável AISI 316",8,193,
+"Aço Inoxidável AISI 304",8,193,
+"Madeira Carvalho (geral)",0.75,12,"Valor genérico EngineeringToolbox"
+"Madeira Pinho (geral)",0.43,9,"Valor genérico EngineeringToolbox"
+"Concreto (geral)",2.4,30,"E para alta resistência"
+"Alumina (Al2O3) 96%",3.72,303,
+"Alumina (Al2O3) 90%","",275,"Densidade não fornecida"
+"Zircônia (ZrO2) 3mol% Y2O3","",205,"Densidade não fornecida"
+"Silício Monocristalino (100)","",129,"Densidade não fornecida"
+"Silício Monocristalino (110)","",168,"Densidade não fornecida"
+"Silício Monocristalino (111)","",187,"Densidade não fornecida"
+"Nitreto de Silício (Si3N4) Ligado por Reação","",304,"Densidade não fornecida"
+"Nitreto de Silício (Si3N4) Prensado a Quente","",304,"Densidade não fornecida"
+"Nitreto de Silício (Si3N4) Sinterizado","",304,"Densidade não fornecida"
+"Diamante Natural","",950,"E=média de 700-1200 GPa; Densidade não fornecida"
+"Diamante Sintético","",862.5,"E=média de 800-925 GPa; Densidade não fornecida"
+"Vidro Borossilicato (Pyrex)","",70,"Densidade não fornecida"
+"Vidro Sodo-Cálcico","",69,"Densidade não fornecida"
+"Vitrocerâmica (Pyroceram)","",120,"Densidade não fornecida"
+"Concreto para Construção","",31,"E=média de 25.4-36.6 GPa; Densidade não fornecida"
+"Refratário de Alta Alumina","",125,"E=média de 100-150 GPa; Densidade não fornecida"
+"Refratário MgO-C","",55,"E=média de 40-70 GPa; Densidade não fornecida"
+"Refratário de Argila Refratária","",40,"E=média de 30-50 GPa; Densidade não fornecida"
+"Refratário de Carboneto de Silício","",40,"E=média de 30-50 GPa; Densidade não fornecida"
+"Refratário de Mulita","",20,"E=média de 15-25 GPa; Densidade não fornecida"
+"Poli(cloreto de vinila) (PVC)",1.33,3.255,"D=média de 1.3-1.36 g/cm3 (PVC); E=média de 2.41-4.14 GPa"
+"Epóxi",1.25,2.41,"D=média de 1.1-1.4 g/cm3 (Epoxy); E=2.41 GPa"
+"Fenólico",1.35,3.795,"D=média de 1.3-1.4 g/cm3 (Phenolic); E=média de 2.76-4.83 GPa"
+"Poliamida 66 (Nylon 66)",1.14,2.69,"E=média de 1.59-3.79 GPa"
+"Poli(butileno tereftalato) (PBT)",1.31,2.465,"E=média de 1.93-3.00 GPa"
+"Poliéter Éter Cetona (PEEK)",1.3,1.1,"D=1.3 g/cm3 (PEEK); E=1.10 GPa"
+"Polietileno de Baixa Densidade (LDPE)",0.92,1.08,"D=0.92 g/cm3 (LDPE); E=1.08 GPa"
+"Poli(etileno tereftalato) (PET)",1.38,3.45,"E=média de 2.76-4.14 GPa"
+"Poli(metil metacrilato) (PMMA)",1.19,2.74,"E=média de 2.24-3.24 GPa"
+"Polipropileno (PP)",0.905,1.345,"E=média de 1.14-1.55 GPa"
+"Poliestireno (PS)",1.05,2.78,"E=média de 2.28-3.28 GPa"
+"Alumina 96%",3.75,"","Módulo E não fornecido"
+"Alumina 99.7%",3.95,"","Módulo E não fornecido"
+"Alumina 99.95%",3.98,"","Módulo E não fornecido"
+"ZTA (Alumina Tenacificada com Zircônia)",4.1,"","Módulo E não fornecido"
+"ZTA Ultra Dura",4.18,"","Módulo E não fornecido"
+"ATZ (Zircônia Tenacificada com Alumina)",5.5,"","Módulo E não fornecido"
+"Zircônia Ultra Tenaz",5.7,"","Módulo E não fornecido"
+"Zircônia Ultra Tenaz HIP",5.7,"","Módulo E não fornecido"
+"Zircônia 3YZ",6.05,"","Módulo E não fornecido"
+"Zircônia Nano HIP",6.07,"","Módulo E não fornecido"
+"Nitreto de Alumínio PCAN1000",3.32,"","Módulo E não fornecido"
+"Nitreto de Alumínio PCAN2000",3.32,"","Módulo E não fornecido"
+"Nitreto de Alumínio PCAN3000",3.32,"","Módulo E não fornecido"
+"Nitreto de Alumínio PCAN4000",3.3,"","Módulo E não fornecido"
+"Nitreto de Alumínio PCAN1000S",3.3,"","Módulo E não fornecido"
+"Carboneto de Silício (Precision Ceramics)",3.1,"","Módulo E não fornecido"
+"Carboneto de Boro (Precision Ceramics)",2.52,"","Módulo E não fornecido"
+"Nitreto de Silício PCSN1000",3.3,"","D=média de 3.2-3.4 g/cm3; Módulo E não fornecido"
+"Nitreto de Silício PCSN2000",3.3,"","D=média de 3.2-3.4 g/cm3; Módulo E não fornecido"
+"Nitreto de Silício PCSN3000",3.25,"","D=média de 3.2-3.3 g/cm3; Módulo E não fornecido"
+"Nitreto de Silício PCSN4000",3.23,"","Módulo E não fornecido"
+"Shapal Hi M Soft",2.88,"","Módulo E não fornecido"
+"Macor (Precision Ceramics)",2.52,"","Módulo E não fornecido"
+"Nitreto de Boro PCBN1000 (Puro)",1.9,"","Módulo E não fornecido"
+"Nitreto de Boro PCBN3000 (Puro)",1.9,"","Módulo E não fornecido"
+"Nitreto de Boro Grau AX05 (Puro)",1.9,"","Módulo E não fornecido"
+"Nitreto de Boro PCBN2000 (Com Aglutinante)",2.1,"","Módulo E não fornecido"
+"Nitreto de Boro PCBN4000 (Com Aglutinante)",1.95,"","D=média de 1.85-2.05 g/cm3; Módulo E não fornecido"
+"Nitreto de Boro PCBN5000 (Com Aglutinante)",2.0,"","Módulo E não fornecido"
+"Nitreto de Boro Grau A (Mecânico)",2.0,"","Módulo E não fornecido"
+"Nitreto de Boro Grau HP (Mecânico)",2.0,"","Módulo E não fornecido"
+"Nitreto de Boro Grau M26 (Mecânico)",2.1,"","Módulo E não fornecido"
+"Nitreto de Boro Grau ZSBN (Mecânico)",2.9,"","Módulo E não fornecido"
+"Ferro Fundido Cinzento Grau 20",7.15,100,
+"Aço AISI 1045",7.865,205,"D=média de 7.7-8.03 g/cm3"
+"Alumínio 2045-T4",2.7,73,
+"Alumínio 6061-T6 (EngineeringToolbox)",2.7,69,
+"Madeira Carvalho (EngineeringToolbox)",0.76,11,
+"Madeira Pinho (EngineeringToolbox)",0.43,9,
+"Concreto Alta Resistência",2.4,30,
+"Aço Estrutural ASTM A36",7.85,200,
+"Aço Inoxidável AISI 302",7.86,180,
+"Liga de Titânio (genérica)",4.5,112.5,"E=média de 105-120 GPa"
+"Carboneto de Tungstênio (WC) (EngineeringToolbox)",15.7,550,"E=média de 450-650 GPa"
+"Liga de aço A36",7.85,207,
+"Liga de aço 1020",7.85,207,
+"Liga de aço 1040",7.85,207,
+"Liga de aço 4140",7.85,207,
+"Liga de aço 4340",7.85,207,
+"Liga inoxidável 304",8.00,193,
+"Liga inoxidável 316",8.00,193,
+"Liga inoxidável 405",7.80,200,
+"Liga inoxidável 440A",7.80,200,
+"Liga inoxidável 17-7PH",7.65,204,
+"Ferros cinzentos, Classe G1800",7.30,81.5,"Módulo: 66-97"
+"Ferros cinzentos, Classe G3000",7.30,101.5,"Módulo: 90-113"
 
